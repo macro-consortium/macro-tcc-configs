@@ -1,0 +1,4 @@
+ideal order in which to take twilight flats:
+
+u, y, OIII, Ha, SII, z, i, r, g
+
