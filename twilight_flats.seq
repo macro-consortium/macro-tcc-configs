@@ -1,0 +1,75 @@
+BaseName	"flat_2024-10-04"
+Binning[32]	1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, \
+		1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+BinningMode	0
+DelayBetweenCalFrames	0
+DelayFirst	0
+DelayRest	0
+DitherAxis	0
+DitherMax	10.0
+DitherMode	2
+DitherTime	0.0
+Enabled[32]	0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+EnabledSlotsOnly	0
+FiltChangeTime	0.0
+Filter[32]	"u", "y", "OIII", "Ha", "SII", "z", "i", "r", "g", "", "u", \
+		"", "", "", "", "", "", "", "", "", "", "", "", "", "", "", \
+		"", "", "", "", "", ""
+GroupBySlot	0
+Mosaic	{
+  Centred	0
+  CurrentPos	1
+  Dec	""
+  Enabled	0
+  Height	2
+  HSpacing	15.0
+  NamingConvention	0
+  Order	0
+  RA	""
+  StartTile	1
+  VSpacing	15.0
+  Width	2
+}
+ReadoutMode[32]	"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", \
+		"1MHz High Sensitivity 16-bit", "", "", "", "", "", "", "", \
+		"", "", "", "", "", "", "", "", "", "", "", "", "", ""
+RefTime	0
+Repeat[32]	8, 7, 8, 8, 8, 8, 8, 8, 8, 3, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, \
+		1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+RepeatCountAll	1
+ResyncBin2x2	0
+ResyncInteval	1
+ResyncMode	0
+ResyncTime	0.0
+SameRepeatCount	0
+SameScriptName	0
+Schedule	{
+}
+ScheduledMode	0
+ScheduleNotice	600
+Script[32]	"", "", "", "", "", "", "", "", "", "", "", "", "", "", "", \
+		"", "", "", "", "", "", "", "", "", "", "", "", "", "", "", \
+		"", ""
+ScriptPathAll	""
+ScriptRunMode	0
+SettleTime	0.0
+Speed[32]	0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Suffix[32]	"_u", "_y", "_OIII", "_Ha", "_SII", "_z", "_i", "_r", "_g", \
+		"_hb", "_lowres", "", "", "", "", "", "", "", "", "", "", "", \
+		"", "", "", "", "", "", "", "", "", ""
+TileSlewTime	0.0
+Time[32]	30.0, 20.0, 10.0, 6.0, 8.0, 6.0, 5.0, 5.0, 5.0, 120.0, 15.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Type[32]	0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+UseNameFromScope	0
