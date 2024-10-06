@@ -2,6 +2,9 @@
 /*/
 !/config/
 
+# hide private ssh key
+id_rsa
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
