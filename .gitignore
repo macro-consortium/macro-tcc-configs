@@ -2,6 +2,10 @@
 /*/
 !/config/
 
+# ignore syncthing files
+.stignore
+*.syncthing-conflict-*
+
 # hide private ssh key
 id_rsa
 
